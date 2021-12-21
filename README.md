@@ -1,2 +1,2 @@
 # hello-woarld
-A project of development a portfolio 
+A project of developing a portfolio 
